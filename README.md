@@ -10,5 +10,7 @@ This is a simple weather application built with Vite and React. It fetches weath
 - Implement error handling for invalid or missing location input.
 - Apply basic styling to enhance the user interface.
 
+![image](https://github.com/gulshair12/weatherapp/assets/91017351/3ef1997e-45f6-4473-b89b-6184a8e936a0)
+
 
 
